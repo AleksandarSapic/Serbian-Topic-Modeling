@@ -1,5 +1,5 @@
 outs:
-    - md5: 2f473a610ea6466c6633804eaa345586.dir
-      size: 500004439
+    - md5: c41f4f25297693b9597e4594c0bd2f72.dir
+      size: 1001910119
       path: HPLT___hplt2.0_cleaned
-      nfiles: 2
+      nfiles: 3
